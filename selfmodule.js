@@ -2,7 +2,7 @@
  * Created by DELL on 2017/6/21.
  */
 // 加载模块
-var hello= require('./1.node');
+var hello= require('./selfnode');
 console.log(hello);
 
 // 调用暴露的对象身上的方法
