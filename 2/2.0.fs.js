@@ -48,8 +48,8 @@ fs.readdir('./qin',function(err,data){
 })
 
 //文件相关操作
-var data='这是一个即将被写入文件的文字';
-/*
+/*var data='这是一个即将被写入文件的文字';
+
 fs.writeFile()
     将数据写入到文件中，如果文件不存在自动创建
     写入时首先将原有数据清空，再次写入
@@ -68,15 +68,72 @@ fs.writeFile()
 
 {flag:'a'}追加写
 
- */
+
 fs.writeFile('./write.txt',{flag:'a'},data,function (err) {
  console.log(err);
 
-});
+});*/
 
 //另一种追加写的方法 fs.appendFile()
 
+/*
 fs.appendFile('./write.txt',data,function (err) {
     console.log(err);
 })
+*/
+
+//读取文件内容
+/*
+fs.readFile('./write.txt',function (err,data) {
+  //err 错误信息
+    console.log(err);
+    //data 代表了从文件中读取到的数据，是一个buffer对象
+    console.log(data.toString());
+    //将读取的数据写入到其他文件中
+    fs.writeFile('./memeda',data,function (err) {
+        console.log(err);
+    })
+})
+*/
+
+/*
+//删除文件  fs.unlink()
+fs.unlink('./memeda',function (err) {
+    //console.log(err);
+    //判断错误信息
+    if(err){
+     if(err.code=='ENOENT'){
+      console.log('所给文件路径不存在');
+     }else {
+      console.log('数据异常，请重新尝试');
+     }
+    }else {
+     //提示执行成功
+        console.log('操作成功！！');
+    }
+});
+
+
+
+//fs.rename重命名，剪切的效果
+fs.rename('./write.txt','./rw.txt',function (err) {
+    console.log(err);
+})
+ */
+
+//判断文件路径是否存在
+//定义文件
+var filename='./demo';
+
+fs.access(filename,function (err) {
+
+    if(err&&err.code=='ENOENT'){
+        console.log('所给文件路径是不存在的');
+    }else {
+     console.log('文件是存在的')
+    }
+
+});
+
+
 

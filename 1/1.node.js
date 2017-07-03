@@ -29,7 +29,7 @@ var fs = require('fs');
 // console.log(fs);
 
 // 按照规则进行方法的调用就OK了
-fs.mkdir('./mumuda',function(err){
+fs.mkdir('../mumuda',function(err){
     /*
      err 接收的是错误信息
      null		就表示没有错误信息，执行成功

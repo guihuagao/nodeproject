@@ -57,13 +57,13 @@ console.log(res);//false
 
 
 // Buffer.byteLength() 获取buffer对象字节长度
-var str = '如何形容前凸后翘：人还没有进来，胸已经进来；人已经走了，屁股还在...';
+var str = '判断所占字节的长度';
 var buf = Buffer.from(str);
 
-console.log(Buffer.byteLength(buf));//99
+console.log(Buffer.byteLength(buf));//27
 
 // .length 返回的就是字符串的字符数
-console.log(str.length);//35
+console.log(str.length);//9
 
 
 
