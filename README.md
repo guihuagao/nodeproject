@@ -1,7 +1,7 @@
 # nodeproject
 学习node.js的整个过程代码以及小项目的制作
 
-git bash定位所在目录
+# git bash定位所在目录
 1.提供了类似于linux的操作环境，运行相关的linux命令
 2.相关命令
    ls     查看当前目录的所有文件和目录

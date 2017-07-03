@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a67f8c-ac91-480a-8c1c-80e1cf92ca5f" name="Default" comment="自定义模块">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/http.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/httperror.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/httpindex.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.buffer.js" afterPath="$PROJECT_DIR$/2.buffer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.fs.js" afterPath="$PROJECT_DIR$/2.fs.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,7 +30,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.fs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.fs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2.fs.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
@@ -47,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="200">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -101,8 +94,8 @@
         <option value="$PROJECT_DIR$/httpindex.html" />
         <option value="$PROJECT_DIR$/httperror.html" />
         <option value="$PROJECT_DIR$/http.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/2.fs.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -246,7 +239,7 @@
       <workItem from="1498178868107" duration="2283000" />
       <workItem from="1498292063346" duration="169000" />
       <workItem from="1498794028614" duration="9084000" />
-      <workItem from="1499040970151" duration="2412000" />
+      <workItem from="1499040970151" duration="2954000" />
     </task>
     <task id="LOCAL-00001" summary="自定义模块">
       <created>1498119099401</created>
@@ -259,10 +252,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24900000" />
+    <option name="totallyTimeSpent" value="25442000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="814" y="143" width="1027" height="977" extended-state="0" />
+    <frame x="814" y="143" width="1027" height="977" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22244692" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -476,18 +469,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.fs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
