@@ -2,18 +2,281 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34a67f8c-ac91-480a-8c1c-80e1cf92ca5f" name="Default" comment="自定义模块">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/2.1.fs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2/2.2.fs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/2.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/25.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/26.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/27.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/28.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/29.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/2__sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/3.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/30.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/31.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/32.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/33.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/34.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/35.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/36.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/37.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/37.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/38.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/39.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/39.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/4.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/41.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/41.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/42.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/43.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/43.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/44.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/46.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/47.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/48.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/49.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/50.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/51.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5489646.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/555.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5719dd01Nc6e67028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/573aad05Nba66c04a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5767fea8N2d681102.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57ad8846N64ac3c79.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57b12a31N8f4f75a3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57b12ac6N61374a75.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57b15612N81dc489d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57b15616N1e285f09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/57f8ac4fN87e531d5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5800ba8bN53967f99.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/580f24f2N9e02b4d9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/581025daN82d481bb.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5819c25dNa4750922.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/582c9554N5b669e3b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/582d906cNc106dc14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/584a76caN10d53ad2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/5852299fN1840f35a.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58522b1bN916da74b.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58522bd7Ne481056f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58a6ce76N8fe67edf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58a6e0fdN0cf642b4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58aabf9fN96be2f11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58aeb39cN7a165782.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58b4f659Ne2ca1492.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58b4fb2fN9db155ad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58b67f2dN113368d0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58b7c812Nb2b2af36.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58bcbe70Nb7f15087.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58be474fN23f0c04f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58be4ca4Na3739142.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58be52feN82d61cab.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58bf6e7eNc924f4f4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58bf772eN49c690e2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58c01f51Nfff1c782.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58c1623aNfd125e3f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58c1fe2bN44004375.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58c294c3Nf19ca0c0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58c29543Na86fff38.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58cbb6c1Nbaa0acc5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58ec8c7fN581b2e1f.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58ef33ebNf447a1c8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58f6e08dNc2656424.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58f72678N83c1f84d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/58f80d5aN877d0864.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/59.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/6.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/60.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/61.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/61.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/62.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/62.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/63.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/63.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/6368656e6861697368656e673138353531333737393039373036383931_sma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/64.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/64.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/65.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/65.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/66.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/66.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/666.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/66666666.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/67.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/67.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/68.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/68.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/69.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/69.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/7.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/70.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/70.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/71.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/71.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/72.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/72.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/73.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/73.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/74.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/75.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/77777.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/8.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/888888888.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/SPSX.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/__sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/__sprite222.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/addtocart-icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/area_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/arr-close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/cart-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/commentsListIcons1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dainz_px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dainz_px2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dianji.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dingbutp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/disabled-next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/disabled-prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/dw.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/erjilb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/gwc_x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/gwch.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/hui.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/ico_footer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/ico_service.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/iconLB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/iconZP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/index.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/iphone.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/jingling.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/liebiaozuozhong15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/list.icons.other.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/logo-201305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/logo.v2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/logo_s.v2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/mobile_qrcode.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/no_login.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/price-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/pt_qrcode@1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/pzjdfxg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/search.ele.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/search.service.icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/seckill_hd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sousou.bmp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sprite-gys-im.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sprite-magnify.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sprite666.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sprite_index@1x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/ss.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/star.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/sys_item_selected.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/toolbars.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/u-ad.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/xiaotp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/xiaotu666.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/xiaoxi_px.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/xiaoxi_px2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/img/xz666.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/imgs/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/imgs/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/imgs/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/imgs/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjshaiT/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjshaiT/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjshaiT/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjshaiT/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjshaiT/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjyhtx/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjyhtx/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjyhtx/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjyhtx/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/pjyhtx/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/path.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/3/url.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4/querystring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/download.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/downloadImg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/5/reg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/6/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/details.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/error.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/getType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/shopping.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/css/details.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/css/list.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/css/shopping.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/js/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/js/jquery-1.8.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/js/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/staticWeb/static/js/shopping.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/1.node.js" afterPath="$PROJECT_DIR$/1/1.node.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2.buffer.js" afterPath="$PROJECT_DIR$/2/2.buffer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/2.fs.js" afterPath="$PROJECT_DIR$/2/2.0.fs.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/http.js" afterPath="$PROJECT_DIR$/3/http.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/httperror.html" afterPath="$PROJECT_DIR$/3/httperror.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/httpindex.html" afterPath="$PROJECT_DIR$/3/httpindex.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selfmodule.js" afterPath="$PROJECT_DIR$/2/selfmodule.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/selfnode.js" afterPath="$PROJECT_DIR$/2/selfnode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3/http.js" afterPath="$PROJECT_DIR$/3/http.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3/httpindex.html" afterPath="$PROJECT_DIR$/3/httpindex.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,105 +294,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="http.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3/http.js">
+      <file leaf-file-name="download.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/5/download.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.0.fs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/2.0.fs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="135" column="3" lean-forward="false" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.1.fs.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/2.1.fs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-              <folding>
-                <marker date="1499054449896" expanded="true" signature="319:914" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.2.fs.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2/2.2.fs.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/demo.txt">
+      <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rw.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/rw.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2.buffer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2/2.buffer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
-              <caret line="132" column="41" lean-forward="false" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="httperror.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3/httperror.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="httpindex.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3/httpindex.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,6 +323,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -167,6 +351,24 @@
         <option value="$PROJECT_DIR$/2/rw.txt" />
         <option value="$PROJECT_DIR$/2/2.1.fs.js" />
         <option value="$PROJECT_DIR$/2/2.2.fs.js" />
+        <option value="$PROJECT_DIR$/3/httpindex.html" />
+        <option value="$PROJECT_DIR$/3/event.js" />
+        <option value="$PROJECT_DIR$/3/http.js" />
+        <option value="$PROJECT_DIR$/3/2.http.js" />
+        <option value="$PROJECT_DIR$/3/path.js" />
+        <option value="$PROJECT_DIR$/3/url.js" />
+        <option value="$PROJECT_DIR$/4/QueryString.js" />
+        <option value="$PROJECT_DIR$/4/querystring.js" />
+        <option value="$PROJECT_DIR$/4/global.js" />
+        <option value="$PROJECT_DIR$/staticWeb/readme.txt" />
+        <option value="$PROJECT_DIR$/staticWeb/index.html" />
+        <option value="$PROJECT_DIR$/staticWeb/details.html" />
+        <option value="$PROJECT_DIR$/staticWeb/list.html" />
+        <option value="$PROJECT_DIR$/staticWeb/app.js" />
+        <option value="$PROJECT_DIR$/5/http.js" />
+        <option value="$PROJECT_DIR$/5/downloadImg.js" />
+        <option value="$PROJECT_DIR$/5/reg.js" />
+        <option value="$PROJECT_DIR$/5/download.js" />
       </list>
     </option>
   </component>
@@ -180,10 +382,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1862" />
-    <option name="height" value="1096" />
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1858" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -224,7 +426,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="3" />
+              <option name="myItemId" value="6" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -235,7 +437,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/echarts项目/maptest" />
+    <property name="last_opened_file_path" value="D:/tools/apache-tomcat-7.0.72/webapps/DataService" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
@@ -244,7 +446,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习视频\兄弟连nodejs\nodeproject\staticWeb" />
+      <recent name="D:\学习视频\兄弟连nodejs\nodeproject\staticWeb\static" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\学习视频\兄弟连nodejs\nodeproject\staticWeb\static" />
       <recent name="D:\学习视频\兄弟连nodejs\nodeproject\2" />
       <recent name="D:\学习视频\兄弟连nodejs\nodeproject\3" />
       <recent name="D:\学习视频\兄弟连nodejs\nodeproject\1" />
@@ -315,6 +522,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="34a67f8c-ac91-480a-8c1c-80e1cf92ca5f" name="Default" comment="" />
@@ -327,7 +537,13 @@
       <workItem from="1498178868107" duration="2283000" />
       <workItem from="1498292063346" duration="169000" />
       <workItem from="1498794028614" duration="9084000" />
-      <workItem from="1499040970151" duration="15274000" />
+      <workItem from="1499040970151" duration="19717000" />
+      <workItem from="1499127733826" duration="11322000" />
+      <workItem from="1499215122032" duration="2176000" />
+      <workItem from="1499300420350" duration="1253000" />
+      <workItem from="1499427961293" duration="1028000" />
+      <workItem from="1499657160361" duration="2008000" />
+      <workItem from="1499742700829" duration="12483000" />
     </task>
     <task id="LOCAL-00001" summary="自定义模块">
       <created>1498119099401</created>
@@ -340,19 +556,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37762000" />
+    <option name="totallyTimeSpent" value="72475000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1862" height="1096" extended-state="7" />
+    <frame x="-7" y="2" width="1858" height="1085" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16502193" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16538462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3271028" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3438486" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -360,7 +577,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -383,45 +599,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3/http.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1750">
-          <caret line="70" column="17" lean-forward="false" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/httperror.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/httpindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/selfnode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2/selfmodule.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -429,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -437,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -476,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -515,33 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/httpindex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3/httperror.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -549,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -557,9 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#40#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -567,57 +708,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="58" column="19" lean-forward="true" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3/http.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="86" column="0" lean-forward="false" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/write.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/memeda">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2/write.txt" />
+    <entry file="file://$PROJECT_DIR$/2/memeda" />
     <entry file="file://$PROJECT_DIR$/2/2.buffer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="444">
           <caret line="132" column="41" lean-forward="false" selection-start-line="132" selection-start-column="41" selection-end-line="132" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/2.0.fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="135" column="3" lean-forward="false" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2/2.1.fs.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding>
-            <marker date="1499054449896" expanded="true" signature="319:914" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -625,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,17 +731,238 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2/2.2.fs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        <state relative-caret-position="419">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.1.fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2/2.0.fs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="135" column="3" lean-forward="false" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/httperror.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/httpindex.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="41" column="37" lean-forward="false" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/url.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="71" lean-forward="false" selection-start-line="50" selection-start-column="71" selection-end-line="50" selection-end-column="71" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/global.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/2.http.js" />
+    <entry file="file://$PROJECT_DIR$/3/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="78" column="5" lean-forward="false" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4/querystring.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="11" lean-forward="false" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/getType.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="496" column="9" lean-forward="true" selection-start-line="496" selection-start-column="9" selection-end-line="496" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/staticWeb/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="57" column="27" lean-forward="true" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/download/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/download/57p58PIC2NT.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/download/20170705013537243.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/download/058PICC58PICnPJ.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="208" column="84" lean-forward="false" selection-start-line="208" selection-start-column="81" selection-end-line="208" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3/path.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/downloadImg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/reg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5/download.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ var fs=require('fs');
 var server=http.createServer(function (req,res) {
    /*req request请求
      res response响应
-   * */
+   */
 
    //req.url 获取用户请求路径    / 表示根请求  谷歌  /favicon.ico 默认发送一个收藏夹图标的请求
     //req.method  获取用户请求方法
@@ -39,11 +39,7 @@ var server=http.createServer(function (req,res) {
     /*路由
     /
     /memeda
-
-
      */
-
-
     //判断用户请求的地址是/,表示用户要访问首页
     if(req.url=='/'){
 
@@ -81,10 +77,9 @@ else if(req.url=='/memeda'){
             res.end();
         })
     }
-
-
 });
 
+//设置服务器监听的端口号和ip地址
 server.listen(3000,'127.0.0.1',function () {
     console.log('服务器已经运行在127.0.0.1:3000');
 })
