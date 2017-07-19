@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="/js/jquery.min.js"></script>
+    <title>欢迎</title>
+</head>
+<body>
+<h3>欢迎访问首页</h3>
+<img src="/imgs/1.jpg">
+<button id="send">单击发送ajax</button>
+</body>
+<script>
+    $(function () {
+        //设置按钮点击事件
+        $('#send').click(function () {
+            //向用户路由模块的getUserInfo路由发送请求
+            $.get('/user/getUserInfo',function (msg) {
+                //msg服务器向客户端发送的数据
+                console.log(msg);
+
+            },'json')
+        });
+    });
+</script>
+</html>

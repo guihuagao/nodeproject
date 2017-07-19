@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>列表页</title>
+    <!--引入jquery-->
+    <script src="/javascripts/jquery.min.js"></script>
+</head>
+<body>
+<table border="1" width="666" cellspacing="0" cellpadding="3" align="center">
+    <caption>用户信息列表</caption>
+    <tr>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+        <th>操作</th>
+    </tr>
+    <!--遍历用户-->
+    <% users.forEach(function(item,index) { %>
+   <tr>
+       <td><%=item._id%></td>
+       <td><%=item.name%></td>
+       <td><%=item.sex==1?'男':(item.sex==2?'女':'保密')%></td>
+       <td><%=item.age%></td>
+       <td>编辑|
+           <button class="delete">删除</button></td>
+   </tr>
+    <%
+        });
+ %>
+</table>
+</body>
+<script>
+    //检测jquery是否正确加载
+    /*console.log($);
+    console.log(jQuery);*/
+    //当文档加载完毕时
+    $(function () {
+    //删除的单击事件
+        $('.delete').click(function () {
+            //节点的查找
+            console.log($(this).parents('tr').children().firstChild().html());
+            var _id=$(this).parents('tr').children().firstChild().html();
+           //向服务器端发送ajax，我要删除数据
+           /* $.ajax({
+                //url  描述向哪个地址发送ajax
+                url:'/delete',
+                //type 描述什么样的方式发送ajax
+                type:'get',
+                //给服务器传递参数
+                data:{
+                    _id:_id,
+                },
+                //当响应成功时
+                success:function (msg) {
+                    //msg是服务器端响应的数据
+                    console.log(msg);
+                }
+                //约定返回的数据类型，方便操作
+                dataType:'json'
+            });*/
+           //直接使用$.get
+          /*  $.get('/delete',{_id:_id},function (msg) {
+                //成功时的回调函数
+                console.log(msg);
+            },'json')*/
+
+          //使用$.post()发送
+            $.post('/delete',{_id:_id},function (msg) {
+                console.log(msg);
+
+                /*
+                客户端根据返回的标志，告诉用户是否操作成功
+                 */
+
+            },'json');
+
+        });
+    });
+</script>
+</html>

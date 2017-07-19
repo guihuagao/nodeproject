@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+    <h4>网址是：<%= weburl %></h4>
+<h3><a href="/reg">去注册</a></h3>
+    <h3>修改个人信息</h3>
+    <form>
+      性别：<input type="radio" name="sex" <%= sex==1?'checked':''%> value="1">男
+            <input type="radio" name="sex" <%= sex==2?'checked':''%> value="2">女
+           <input type="radio" name="sex" <%= sex==3?'checked':''%> value="3">保密
+      <p>性别：<%= sex==1?'男':(sex==2?'女':'保密')%></p>
+    </form>
+<h3>对象相关变量输出</h3>
+    网站：<%= user.name %><br>
+    年份：<%= user.year %><br>
+    类：<%= user.class %><br>
+    <h3>遍历数组对象---你最喜爱的明星</h3>
+    <ul>
+      <% stars.forEach(function (item,index) {%>
+        <li>编号：<%=index+1%>姓名：<%=item%></li>
+     <% })%>
+    </ul>
+
+    <table border="1" width="666" align="center">
+      <tr>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+        <th>操作</th>
+      </tr>
+      <!--遍历所有的用户，输出信息 -->
+      <%
+       users.forEach(function (item,index) {
+         %>
+      <tr>
+        <td><%=index+1%></td>
+        <td><%=item.name%></td>
+        <td><%=item.sex==1?'男':(item.sex==2?'女':'保密')%></td>
+        <td><%=item.age%></td>
+        <td>编辑|删除</td>
+      </tr>
+      <%
+       })
+      %>
+
+    </table>
+
+  <form action="/users" method="post">
+    账户：<input type="text" name="username"/><br>
+    <button>提交</button>
+  </form>
+
+  </body>
+</html>

@@ -28,3 +28,23 @@ npm install 包名  当前下创建node_modules目录里面存放包
 node 文件名
 
 supervisor node 文件名    只要文件发生变化，程序自动重启
+
+
+借助express框架搭建web应用
+==============
+
+1.下载模块express
+
+2.加载express模块搭建服务器
+
+3.使用ejs模板引擎
+
+        1.下载ejs模板引擎
+
+        2.加载模板引擎
+
+        3.设置模板引擎，设置模板存储的目录
+
+        4.模板文件在存储时，要以.ejs为扩展名
+
+ 4.项目构造器   express-generator 用于快速搭建项目目录结构
