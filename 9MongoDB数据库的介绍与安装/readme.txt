@@ -8,7 +8,7 @@
 
 2. 为了在任何一个位置都能执行mongod命令，将该命令所在的目录添加到系统的环境变量
 	查找到mongod.exe文件所在的目录
-		D:\Program Files\MongoDB\Server\3.2\bin
+		D:\Program Files\MongoDB\Server\3.4\bin
 
 	右键我的电脑-->属性-->高级系统设置-->高级-->环境变量 path
 	--> 将值进行存储，确定，保存退出
@@ -40,33 +40,32 @@
 
 4. 启动客户端连接数据库
 
-C:\Users\Administrator>mongo
-2017-05-23T20:31:49.796+0800 I CONTROL  [main] Hotfix KB2731284 or later update is not installed, will zero-out data fil
-es
-MongoDB shell version: 3.2.13-17-gd918f77
-connecting to: test
+C:\Users\DELL>mongo
+MongoDB shell version v3.4.4
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.4
+Welcome to the MongoDB shell.
+For interactive help, type "help".
+For more comprehensive documentation, see
+        http://docs.mongodb.org/
+Questions? Try the support group
+        http://groups.google.com/group/mongodb-user
 Server has startup warnings:
-2017-05-23T20:29:09.982+0800 I CONTROL  [initandlisten]
-2017-05-23T20:29:09.982+0800 I CONTROL  [initandlisten] ** WARNING: This 32-bit MongoDB binary is deprecated
-2017-05-23T20:29:09.982+0800 I CONTROL  [initandlisten]
-2017-05-23T20:29:09.982+0800 I CONTROL  [initandlisten]
-2017-05-23T20:29:09.982+0800 I CONTROL  [initandlisten] ** NOTE: This is a 32 bit MongoDB binary.
-2017-05-23T20:29:09.983+0800 I CONTROL  [initandlisten] **       32 bit builds are limited to less than 2GB of data (or
-less with --journal).
-2017-05-23T20:29:09.983+0800 I CONTROL  [initandlisten] **       Note that journaling defaults to off for 32 bit and is
-currently off.
-2017-05-23T20:29:09.983+0800 I CONTROL  [initandlisten] **       See http://dochub.mongodb.org/core/32bit
-2017-05-23T20:29:09.983+0800 I CONTROL  [initandlisten]
+2017-07-18T23:49:11.777-0700 I CONTROL  [initandlisten]
+2017-07-18T23:49:11.777-0700 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2017-07-18T23:49:11.778-0700 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2017-07-18T23:49:11.778-0700 I CONTROL  [initandlisten]
 >   该符号说明已经连接上数据库了
 
 --- 查看当前数据库系统的版本
 > db.version()
-3.2.13-17-gd918f77
+3.4.4
 >
 
 --- 显示当前数据库系统下的所有数据库
-> show dbs		--- 显示不为空的数据库
-local  0.078GB
+> show dbs		--- 只能显示不为空的数据库
+admin  0.000GB
+local  0.000GB
 >
 
 --- 显示当前所在的数据
@@ -506,7 +505,7 @@ ook" : [ "宫保鸡丁", "鱼香肉丝", "水煮鱼", "水煮肉", "一盆米饭
 >
 
 
---- 查询既不是男的，也不是女的 -- 范围查询
+
 --- $in 在某个范围
 > db.stu.find({sex:{$in:['男','女']}}))
 { "_id" : ObjectId("59242dad85e8713e6ce83e01"), "username" : "孙悟空", "age" : 100, "sex" : "男", "class" : "花果山" }
@@ -527,6 +526,7 @@ ook" : [ "宫保鸡丁", "鱼香肉丝", "水煮鱼", "水煮肉", "一盆米饭
 
 
 --- $nin 不在某个范围
+--- 查询既不是男的，也不是女的 -- 范围查询
 > db.stu.find({sex:{$nin:['男','女']}})
 { "_id" : ObjectId("592434a485e8713e6ce83e06"), "username" : "猪八戒", "age" : 120, "sex" : "妖", "class" : "高老庄", "c
 ook" : [ "宫保鸡丁", "鱼香肉丝", "水煮鱼", "水煮肉", "一盆米饭" ] }
